@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/tick.png",
+        "source": "/home/sayeed/data/sayeed/Programs/android/Attendance/app/src/main/res/mipmap-xxxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/cancel.png",
+        "source": "/home/sayeed/data/sayeed/Programs/android/Attendance/app/src/main/res/mipmap-xxxhdpi/cancel.png"
+    },
+    {
+        "merged": "/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/sayeed/data/sayeed/Programs/android/Attendance/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+
+              android:orientation="horizontal"
+>
+
+    <LinearLayout android:layout_width="0dp"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:orientation="vertical"
+                  android:id="@+id/dataContainer"
+                  android:padding="10dp"
+    >
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:maxLines="2"
+                  android:id="@+id/courseName"
+        />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:id="@+id/courseStat"
+                  android:maxLines="2"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+        <ImageButton android:layout_width="30dp" android:layout_height="30dp"
+                     android:id="@+id/btnPresent"
+                     android:src="@drawable/tick"
+                     android:layout_margin="5dp"
+                     android:background="#fff"
+                     android:scaleType="fitCenter"
+                     android:adjustViewBounds="true"
+        />
+        <ImageButton android:layout_width="30dp" android:layout_height="30dp"
+                     android:id="@+id/btnAbsent"
+                     android:src="@drawable/cancel"
+                     android:layout_margin="5dp"
+                     android:background="#fff"
+                     android:scaleType="fitCenter"
+                     android:adjustViewBounds="true"
+
+        />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

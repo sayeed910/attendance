@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_9a0f2dabba9b3c6c7e1f1bfee437a52f2b902307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/android_sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_2fc2e19711fb65c76956c6db32c676d0f3a95266/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_923320eb139f7a34c9ae0c79bfdf09d022feac20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_5fa2c16e545ffbce26b571535189d8364f6d5cc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ea67dae0e0217f2749c347b9787b2c5f55597ce">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c88bb144622937b31adfd40a90adba3880d02849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="022a16eba8a0ef712a2bb6c587dfb3dc27051bd8">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2ef461eef9d9169bdc589e91a21ce1dc0f5028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_bd1380625421d61fd9084c9d9a5de9613767ebe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_c9f99f01b304add8e9e4f359d369236c745f930c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_2268b3e6a7ead86802ced05dda6a0edc2def3dd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_88c7f5a4cf508de10a208f3da854b48311f329f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_ed71d32d373d06f4b7166db8a6ab59c4e2cef0dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_43963916f6bb6a9d67ca540eeb461ffa92c486ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_965069b2b30cbd4820d010a5057b4aec513ff41d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_92547bd1daf1d5610e503cc1cd4ae4cdc6778c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_89d3389b855d4a12ba31f0f0df90dbc653615646/classes.dex" />
+    </item>
+
+</items>

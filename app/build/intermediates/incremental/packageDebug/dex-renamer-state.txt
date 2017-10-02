@@ -1,0 +1,7 @@
+#Sun Jul 09 03:03:56 BDT 2017
+base.0=/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c88bb144622937b31adfd40a90adba3880d02849
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2ef461eef9d9169bdc589e91a21ce1dc0f5028/classes.dex
+base.1=/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c2ef461eef9d9169bdc589e91a21ce1dc0f5028
+file.0=/home/sayeed/data/sayeed/Programs/android/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c88bb144622937b31adfd40a90adba3880d02849/classes.dex
